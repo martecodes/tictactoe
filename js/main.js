@@ -44,11 +44,13 @@ const calculateWinner = (chosenIndex) => {
     //create a variable that takes in what index user has clicked
     const winningRanges = winningResult[chosenIndex]
     //create a for loop with the winning result and cellvalues
+    //firstOption will kick back the number of winningRanges[i] that grabs from winningResult[0]
+    //secondOption will kick back the number of winningRanges[i] that grabs from winningResult[1]
     for(let i = 0; i < winningRanges.length;i++){
         const currentEntry = cellValues[chosenIndex]
         const firstOption = cellValues[winningRanges[i][0]]
         const secondOption = cellValues[winningRanges[i][1]]
-
+        // if all entries from previous loop match the winningResult then is returned true
         if(currentEntry === firstOption && firstOption === secondOption){
             winnerUser = currentEntry
             winningCombination = [chosenIndex,winningRanges[i][0],winningRanges[i] [1]]
