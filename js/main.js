@@ -1,5 +1,3 @@
-
-
 //lets create the user X and O
 const user = {
     x: 'X',
