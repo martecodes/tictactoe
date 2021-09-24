@@ -1,6 +1,6 @@
 <h1> Tic Tac Toe </h1>
 
-I created a Tic Tac Toe. Challenge your friend !
+I created a Tic Tac Toe to challenge your friends !
 
 ![tictoc](https://user-images.githubusercontent.com/88953222/134682849-d8670058-d88e-4a9e-9021-42d10c31d3ad.png)
 
