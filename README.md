@@ -2,8 +2,7 @@
 
 I created a Tic Tac Toe. Challenge your friend !
 
-![tictoc](https://user-images.githubusercontent.com/88953222/134523480-735df86e-86cd-4c72-a78c-45fe1021fd1c.png)
-
+![tictoc](https://user-images.githubusercontent.com/88953222/134682849-d8670058-d88e-4a9e-9021-42d10c31d3ad.png)
 
 How it's made
 Tech used: HTML, CSS, JavaScript, Framework of choice
